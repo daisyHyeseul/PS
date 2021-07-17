@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "BOJ14913.C": "cpp",
+        "BOJ10829.C": "cpp",
+        "BOJ1978.C": "cpp",
+        "BOJ1024.C": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "random": "cpp",
+        "iostream": "cpp"
+    }
+}
