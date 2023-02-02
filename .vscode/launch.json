@@ -15,6 +15,7 @@
       "environment": [],
       "externalConsole": false,
       "MIMode": "gdb",
+      "miDebuggerPath": "/usr/bin/gdb",
       "setupCommands": [
         {
           "description": "gdb에 자동 서식 지정 사용",
